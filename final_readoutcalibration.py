@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
+#You can get the frames from the RScalibration folder!!!!!!!!!!!!
 #Algorithm for calibration of:
 #    -Guard Time between frames  (tg)
 #    -Readout Time Rate          (r)

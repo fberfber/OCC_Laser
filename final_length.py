@@ -6,7 +6,7 @@ from matplotlib.pyplot import plot as plot
 from matplotlib.pyplot import show as show
 from matplotlib.pyplot import scatter as scatter
 from matplotlib.pyplot import figure as figure
-
+#You can get the frames from the Images folder !!!!!!!!!!!!!!!!!!!!!!!!!!
 #A 1 11 111 1111 sequence is sent repeatedly to calculate the pixel height of each pulse 
 
 # Each symbol is seperated with a '0' that is detected by detecting the valleys  (inverted peaks)
